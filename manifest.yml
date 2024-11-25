@@ -1,0 +1,12 @@
+---
+name: Ovito
+icon: fa://desktop
+category: Interactive Apps
+subcategory: GUIs
+role: batch_connect
+description: |
+  This app will launch the [Ovito] GUI on the [Quest cluster]. *This app can only be used when submitting to a [RHEL8 Pilot Node]*. Please note that the constraint field is pre-populated to only allow submission to the RHEL8 Pilot.
+
+  [Ovito]: https://www.ovito.org/docs/current/index.html
+  [RHEL8 Pilot Node]: https://services.northwestern.edu/TDClient/30/Portal/KB/ArticleDet?ID=2660
+  [Quest cluster]: https://www.it.northwestern.edu/departments/it-services-support/research/computing/quest/index.html
